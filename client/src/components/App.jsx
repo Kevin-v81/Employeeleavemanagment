@@ -7,7 +7,6 @@ import Contact from "./Contact";
 import Login from "./Login";
 import Register from "./Register";
 import Adminlogin from "./Adminlogin";
-import Errorpage from "./Errorpage";
 import Emplogout from "./Emplogout";
 import Admindash from "./Admindashboard";
 import Adminlogout from "./Adminlogout";
@@ -34,7 +33,7 @@ const App=()=>
            <Route        path="/adminwelcome" component={Adminwelcome}/>
           <Route         path="/admindash" component={Admindash}/>
 
-          <Route component={Errorpage}/>
+          
           {/* <Redirect   to="/"/> */}
           </Switch>
               
