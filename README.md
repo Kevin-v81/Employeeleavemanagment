@@ -3,7 +3,7 @@
 ## MERN-STACK Development
 
 ### Front-End 
-HTML , CSS , JavaScript(ES6), ReactJS 
+HTML , CSS , Bootstrap5, JavaScript(ES6), ReactJS 
 
 ### Back-End  
 ExpressJS
