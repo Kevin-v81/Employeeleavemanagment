@@ -1,7 +1,12 @@
 # Employeeleavemanagment
 
-MERN-STACK Development
+#MERN-STACK Development
 
-Front-End : HTML , CSS , JavaScript(ES6),ReactJS 
-Back-End  : ExpressJS
-Database  : MongoDB (Atlas)
+#Front-End 
+HTML , CSS , JavaScript(ES6),ReactJS 
+
+#Back-End  
+ExpressJS
+
+#Database  
+MongoDB (Atlas)
