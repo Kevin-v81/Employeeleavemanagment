@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Employeeleavemanagment/static/css/main.68eb35ca.chunk.css",
+    "main.js": "/Employeeleavemanagment/static/js/main.de5157e1.chunk.js",
+    "main.js.map": "/Employeeleavemanagment/static/js/main.de5157e1.chunk.js.map",
+    "runtime-main.js": "/Employeeleavemanagment/static/js/runtime-main.54af7913.js",
+    "runtime-main.js.map": "/Employeeleavemanagment/static/js/runtime-main.54af7913.js.map",
+    "static/js/2.9bd109bb.chunk.js": "/Employeeleavemanagment/static/js/2.9bd109bb.chunk.js",
+    "static/js/2.9bd109bb.chunk.js.map": "/Employeeleavemanagment/static/js/2.9bd109bb.chunk.js.map",
+    "index.html": "/Employeeleavemanagment/index.html",
+    "static/css/main.68eb35ca.chunk.css.map": "/Employeeleavemanagment/static/css/main.68eb35ca.chunk.css.map",
+    "static/js/2.9bd109bb.chunk.js.LICENSE.txt": "/Employeeleavemanagment/static/js/2.9bd109bb.chunk.js.LICENSE.txt",
+    "static/media/Cloud9.b2c5978b.png": "/Employeeleavemanagment/static/media/Cloud9.b2c5978b.png",
+    "static/media/Cloudimg.25370844.png": "/Employeeleavemanagment/static/media/Cloudimg.25370844.png",
+    "static/media/Video-Conference-Illustration.e17d74b8.jpg": "/Employeeleavemanagment/static/media/Video-Conference-Illustration.e17d74b8.jpg",
+    "static/media/executive.00de9377.png": "/Employeeleavemanagment/static/media/executive.00de9377.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54af7913.js",
+    "static/js/2.9bd109bb.chunk.js",
+    "static/css/main.68eb35ca.chunk.css",
+    "static/js/main.de5157e1.chunk.js"
+  ]
+}
