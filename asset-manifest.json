@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Employeeleavemanagment/static/css/main.68eb35ca.chunk.css",
-    "main.js": "/Employeeleavemanagment/static/js/main.de5157e1.chunk.js",
-    "main.js.map": "/Employeeleavemanagment/static/js/main.de5157e1.chunk.js.map",
+    "main.js": "/Employeeleavemanagment/static/js/main.6fa75490.chunk.js",
+    "main.js.map": "/Employeeleavemanagment/static/js/main.6fa75490.chunk.js.map",
     "runtime-main.js": "/Employeeleavemanagment/static/js/runtime-main.54af7913.js",
     "runtime-main.js.map": "/Employeeleavemanagment/static/js/runtime-main.54af7913.js.map",
     "static/js/2.9bd109bb.chunk.js": "/Employeeleavemanagment/static/js/2.9bd109bb.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.54af7913.js",
     "static/js/2.9bd109bb.chunk.js",
     "static/css/main.68eb35ca.chunk.css",
-    "static/js/main.de5157e1.chunk.js"
+    "static/js/main.6fa75490.chunk.js"
   ]
 }
